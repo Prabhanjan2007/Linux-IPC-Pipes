@@ -1,5 +1,4 @@
-<img width="957" height="606" alt="q2" src="https://github.com/user-attachments/assets/ea902862-5b5c-4275-885f-a7e45cfdaab8" />
-<img width="957" height="505" alt="q1" src="https://github.com/user-attachments/assets/9693bce9-4ea6-4839-a44a-8dfc4315ac9f" />
+
 # Linux-IPC--Pipes
 Linux-IPC-Pipes
 
